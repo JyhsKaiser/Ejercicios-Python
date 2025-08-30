@@ -1,0 +1,6 @@
+abs(x): Devuelve el valor absoluto de x.
+round(x, n): Redondea x al número más cercano con n decimales (n es opcional).
+pow(x, y): Devuelve x elevado a la potencia de y.
+max(x, y, z, ...): Devuelve el valor maximo entre los números proporcionados.
+min(x, y, z, ...): Devuelve el valor minimo entre los números proporcionados.
+sum(iterable): Suma todos los elementos de un iterable (por ejemplo, una lista de números).
