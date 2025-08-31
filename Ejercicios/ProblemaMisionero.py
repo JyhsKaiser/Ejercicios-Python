@@ -38,6 +38,7 @@ def busqueda_fuerza_bruta_aleatoria(canibales, misioneros):
                     orilla_izq, orilla_Der, barca = restablecer(orilla_izq, orilla_Der, barca)
                     i += 1
                     print(f'EN LA ORILLA IZQUIERDA HAY:\ncanibales: {num_canibales} \nmisioneros: {num_misioneros}')
+                    print("")
                     continue
 
             elif barca[0] in misioneros and barca[1] in misioneros:
